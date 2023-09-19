@@ -23,8 +23,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
+Hosted Site : https://dkhandekar123.github.io/Movie/
 
 ### Run Locally
 
