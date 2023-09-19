@@ -9,7 +9,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 <h1>
-  <a href="https://github.com/Dkhandekar123/Movie"><strong>➥ Live Demo</strong></a>
+  <a href="https://dkhandekar123.github.io/Movie/"><strong>➥ Live Demo</strong></a>
 </h1>
   
 
@@ -17,7 +17,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo 
 
 Hosted Site : https://dkhandekar123.github.io/Movie/
 
